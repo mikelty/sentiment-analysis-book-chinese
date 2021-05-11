@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../sentanalysis-book-chinese/.idea/sentanalysis-book-chinese.iml" filepath="$PROJECT_DIR$/../sentanalysis-book-chinese/.idea/sentanalysis-book-chinese.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sentiment-analysis-book-chinese/.idea/sentiment-analysis-book-chinese.iml" filepath="$PROJECT_DIR$/../sentiment-analysis-book-chinese/.idea/sentiment-analysis-book-chinese.iml" />
     </modules>
   </component>
 </project>
