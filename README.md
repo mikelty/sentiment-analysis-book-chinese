@@ -2,6 +2,8 @@
 
 - currently analyzing the book (投资中不简单的事](https://book.douban.com/subject/27622006/)
 
+- wordcloud, tfidf, textrank, sentiment by sentence
+
 # usage
 
 - python 3.6.9
@@ -15,6 +17,8 @@
 # note 
 
 - ```tz.txt``` can be any chinese book really
+
+- uses [this stopword repo](https://github.com/goto456/stopwords)
 
 # todo 
 
